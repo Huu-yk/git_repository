@@ -1,0 +1,15 @@
+.fa-lg{
+    margin-right: 10px;
+}
+
+.pit-loadding-box {
+    width: 100%;
+    margin-top: 15%;
+}
+
+.pit-loading-img {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}

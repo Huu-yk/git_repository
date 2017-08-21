@@ -1,0 +1,8 @@
+{
+  "/js/app.js": "/js/app.js",
+  "/css/app.css": "/css/app.css",
+  "/css/plugin.css": "/css/plugin.css",
+  "/js/plugin.js": "/js/plugin.js",
+  "/js/toastr.js": "/js/toastr.js",
+  "/js/axios.js": "/js/axios.js"
+}
