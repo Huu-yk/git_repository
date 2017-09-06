@@ -1,7 +1,5 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick.
-Creating a new branch is quick and simple.
-Merge with no-ff
+基于Laravel5.4，Vue2，ElementUI开发的电影网站后台管理系统
+前台显示地址：http://123.207.47.54
+后台登陆：http://123.207.47.54/login  
+管理员帐号：admin@163.com 密码：123123
+初次登录比较慢，还有很多不足之处，需继续优化改进，望见谅
